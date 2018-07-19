@@ -18,6 +18,8 @@ header a  {
 	display: inline-block;
 	padding-left: 0;
 	margin: 0;
+	width: 350px;
+/* 	try to compare with version without property */
 }
 
 .menu li{
