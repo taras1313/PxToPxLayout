@@ -1,0 +1,62 @@
+footer {
+	padding: 0 15px 10px;
+	border-top: 2px solid #ccc;
+	clear: both;
+	font-size: 0.9em;
+	background: #eee;
+	margin-top: 31px;
+}
+
+footer section {
+	display: inline-block;
+	width: 190px;
+	vertical-align: top;
+	margin: 15px 0 1px 0;
+}
+
+footer section p {
+	margin: 3px 0 4px 15px;
+	color: #666;
+	text-decoration: underline;
+}
+
+.underline {
+	text-decoration: underline;
+	color: #666;
+}
+
+footer p:first-child {
+	float: right;	
+}
+
+h4 {
+	font-size: 1em;	
+	margin: 0;
+}
+
+#dh {
+	/* height: 36px; */
+	width: 270px;
+	display: inline-block;
+	margin-top: 7px;
+	margin-left: -9px;
+}
+
+#dh img {
+	/* float: left; */
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+#dh p {
+	/* padding-left: 75px; */
+	display: inline-block;
+	margin: 0;
+	width: 190px;
+
+
+}
+
+.m-1 {
+	margin-left: -4px;
+}

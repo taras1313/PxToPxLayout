@@ -1,0 +1,38 @@
+html {
+	margin: 0;
+	height: 100%
+}
+
+body {
+	font: 0.92em/1.4 Arial, sans-serif;
+    min-width: 780px;
+    background: #fff;
+    color: #000;
+	margin: 0;
+	height: 100%
+
+}
+
+body {
+	background: linear-gradient(to right, #4b4a45 , #4b4a45 210px, #fff 209px, #fff);
+}
+
+ul li {
+	list-style: none;
+}
+
+.center {
+	text-align: center;
+}
+
+.reclam {
+	background: #e82c2e;
+	padding: 5px 10px;
+	float: right;
+	color: #fff;
+	margin-top: 0;
+	font-weight: normal;
+}
+
+/* vertical align(px) і padding top or bottom де різниця? */
+/* коли треба рухати елемент всередині блоку не розтягуючи його(тобто може вивалитись з блоку)- заходить va+px */
