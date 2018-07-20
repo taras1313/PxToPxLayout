@@ -26,6 +26,18 @@ a:visited {
 	margin: 22.080px 0 0;
 }
 
+.img_par img {
+	width: 100%;
+	height: auto;
+	max-width: 800px;
+}
+
+img.width-600 {
+	width: 100%;
+	height: auto;
+	max-width: 600px;
+}
+
 .m-r-5 {
 	margin-right: 5px;
 }
